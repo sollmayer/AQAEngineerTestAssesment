@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 import { PlaylistPage } from "../page-objects/PlaylistPage";
 import { convertTimeToSeconds } from "../utils/helper";
 
-test.describe("Playlist App", () => {
+test.describe("Playlist App Functionality", () => {
 	let playlistPage: PlaylistPage;
 
 	test.beforeEach(async ({ page }) => {
