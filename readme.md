@@ -11,8 +11,8 @@ This project contains automated UI tests for the Playlist App, implemented using
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
-    cd aqa-playlist-assessment
+    git clone https://github.com/sollmayer/AQAEngineerTestAssesment.git
+    cd AQAEngineerTestAssesment
     ```
 
 2.  **Install dependencies:**
